@@ -1,0 +1,29 @@
+.head { 
+	width: 100vw;
+	height: 15vh;
+	background-color: skyblue;
+}
+#logo {
+height: 100%;
+
+
+}
+
+#title {
+	font-size: 72px;
+	color: white;
+margin-top: -5%;
+margin-left: 5%;
+
+}
+
+.root {
+	background-color: red;
+}
+.bubble {
+text-align: center;
+	background-color: yellow;
+}
+.bubble-image {
+	height: 70%;
+}
