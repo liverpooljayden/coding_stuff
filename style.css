@@ -20,10 +20,16 @@ margin-left: 5%;
 .root {
 	background-color: red;
 }
+
+
 .bubble {
 text-align: center;
+margin-top: 5vh;
+	border-radius: 75vw;
 	background-color: yellow;
-}
+} 
+
+
 .bubble-image {
 	height: 70%;
 }
